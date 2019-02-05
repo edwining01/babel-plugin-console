@@ -31,12 +31,12 @@ These problems can be solved by a computer at build time. This plugin allows you
 
 With npm:
 ```sh
-npm install --save-dev babel-plugin-console
+npm install --save-dev @edwining01/babel-plugin-console
 ```
 
 With yarn:
 ```sh
-yarn add -D babel-plugin-console
+yarn add -D @edwining01/babel-plugin-console
 ```
 
 ## Setup
