@@ -45,14 +45,14 @@ yarn add -D @edwining01/babel-plugin-console
 
 ```json
 {
-  "plugins": ["console"]
+  "plugins": ["@edwining01/babel-plugin-console"]
 }
 ```
 
 ### CLI
 
 ```sh
-babel --plugins console script.js
+babel --plugins @edwining01/babel-plugin-console script.js
 ```
 
 ### Node
