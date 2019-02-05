@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-console",
+  "name": "@edwining01/babel-plugin-console",
   "version": "0.2.2",
   "description": "Babel plugin with additional console helper functions",
   "main": "dist/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattphillips/babel-plugin-console.git"
+    "url": "git+https://github.com/edwining01/babel-plugin-console.git"
   },
   "keywords": [
     "babel",
